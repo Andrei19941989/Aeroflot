@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeroport", "Aeroport\Aeroport.csproj", "{0E14CB34-FD9B-4AF3-B59F-E291FE03B054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeroportTest", "AeroportTest\AeroportTest.csproj", "{40F544E5-498C-4020-A351-2C226A0E109F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E14CB34-FD9B-4AF3-B59F-E291FE03B054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E14CB34-FD9B-4AF3-B59F-E291FE03B054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E14CB34-FD9B-4AF3-B59F-E291FE03B054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E14CB34-FD9B-4AF3-B59F-E291FE03B054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F544E5-498C-4020-A351-2C226A0E109F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F544E5-498C-4020-A351-2C226A0E109F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F544E5-498C-4020-A351-2C226A0E109F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F544E5-498C-4020-A351-2C226A0E109F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
